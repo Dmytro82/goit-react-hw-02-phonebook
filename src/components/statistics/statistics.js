@@ -4,7 +4,7 @@ import styles from './statistics.module.css';
 const Statistics = ({ title, stats }) => {
   return (
     <section className={styles.statistics}>
-      <h2 className={styles.headline}>Exercise №2 statistics</h2>
+      <h2 className={styles.headline}>ghbkn.l.,</h2>
 
       {title && <h2 className={styles.title}>{title}</h2>}
 
